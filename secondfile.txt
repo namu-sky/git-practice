@@ -47,3 +47,53 @@ drwxr-xr-x 1 AAA 197121    0 Dec 28  2021 Videos/
 drwxr-xr-x 1 AAA 197121    0 Jan 11  2024 source/
 -rw-r--r-- 1 AAA 197121   12 Oct 20 03:13 words.txt
 lrwxrwxrwx 1 AAA 197121   57 Feb  3  2021 시작 메뉴 -> /c/Users/AAA/AppData/Roaming/Microsoft/Windows/Start Menu/
+total 18M
+drwxr-xr-x 1 AAA 197121    0 Oct 20 03:28 ./
+drwxr-xr-x 1 AAA 197121    0 Feb  3  2021 ../
+-rw-r--r-- 1 AAA 197121 2.7K Oct 20 03:28 .bash_history
+drwxr-xr-x 1 AAA 197121    0 Apr 30 19:02 .espider/
+drwxr-xr-x 1 AAA 197121    0 Oct 20 03:28 .git/
+-rw-r--r-- 1 AAA 197121   78 Oct 20 02:57 .gitconfig
+-rw-r--r-- 1 AAA 197121   16 Oct 20 02:55 .gitignore
+-rw-r--r-- 1 AAA 197121   20 Oct 20 03:23 .lesshst
+drwxr-xr-x 1 AAA 197121    0 Oct 19 15:23 .logs/
+drwxr-xr-x 1 AAA 197121    0 Apr  6  2024 .texlive2023/
+-rw-r--r-- 1 AAA 197121  919 Oct 20 03:28 .viminfo
+drwxr-xr-x 1 AAA 197121    0 Feb  3  2021 3D Objects/
+drwxr-xr-x 1 AAA 197121    0 Feb  3  2021 AppData/
+lrwxrwxrwx 1 AAA 197121   28 Feb  3  2021 Application Data -> /c/Users/AAA/AppData/Roaming/
+drwxr-xr-x 1 AAA 197121    0 Feb  3  2021 Contacts/
+lrwxrwxrwx 1 AAA 197121   56 Feb  3  2021 Cookies -> /c/Users/AAA/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 AAA 197121    0 Oct 17 20:58 Desktop/
+drwxr-xr-x 1 AAA 197121    0 May 20 21:10 Documents/
+drwxr-xr-x 1 AAA 197121    0 Oct 19 19:54 Downloads/
+drwxr-xr-x 1 AAA 197121    0 Aug 22 20:04 Favorites/
+drwxr-xr-x 1 AAA 197121    0 Oct 19 15:22 IntelGraphicsProfiles/
+-rw-r--r-- 1 AAA 197121  928 Nov  6  2022 KCase.log
+drwxr-xr-x 1 AAA 197121    0 Feb  3  2021 Links/
+lrwxrwxrwx 1 AAA 197121   26 Feb  3  2021 Local Settings -> /c/Users/AAA/AppData/Local/
+drwxr-xr-x 1 AAA 197121    0 Feb  3  2021 Music/
+lrwxrwxrwx 1 AAA 197121   22 Feb  3  2021 My Documents -> /c/Users/AAA/Documents/
+-rw-r--r-- 1 AAA 197121  13M Oct 19 01:29 NTUSER.DAT
+-rw-r--r-- 1 AAA 197121  64K Feb  3  2021 NTUSER.DAT{6586c2ae-7ecb-11ea-9e1f-000c29ca6432}.TM.blf
+-rw-r--r-- 1 AAA 197121 512K Feb  3  2021 NTUSER.DAT{6586c2ae-7ecb-11ea-9e1f-000c29ca6432}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 AAA 197121 512K Feb  3  2021 NTUSER.DAT{6586c2ae-7ecb-11ea-9e1f-000c29ca6432}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 AAA 197121   64 Feb  3  2021 NetHood -> /c/Users/AAA/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+drwxr-xr-x 1 AAA 197121    0 Jun 22  2022 Pictures/
+lrwxrwxrwx 1 AAA 197121   64 Feb  3  2021 PrintHood -> /c/Users/AAA/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+-rw-r--r-- 1 AAA 197121   30 Oct 20 02:32 README.md
+lrwxrwxrwx 1 AAA 197121   53 Feb  3  2021 Recent -> /c/Users/AAA/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 AAA 197121    0 Feb  3  2021 Saved Games/
+drwxr-xr-x 1 AAA 197121    0 Feb  3  2021 Searches/
+lrwxrwxrwx 1 AAA 197121   53 Feb  3  2021 SendTo -> /c/Users/AAA/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 AAA 197121   56 Feb  3  2021 Templates -> /c/Users/AAA/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 AAA 197121    0 Dec 28  2021 Videos/
+-rw-r--r-- 1 AAA 197121   14 Oct 20 03:24 newfile.txt
+-rw-r--r-- 1 AAA 197121 1.6M Feb  3  2021 ntuser.dat.LOG1
+-rw-r--r-- 1 AAA 197121 2.0M Feb  3  2021 ntuser.dat.LOG2
+-rw-r--r-- 1 AAA 197121   20 Feb  3  2021 ntuser.ini
+-rw-r--r-- 1 AAA 197121    0 Oct 20 03:16 second
+-rw-r--r-- 1 AAA 197121 3.2K Oct 20 03:17 secondfile.txt
+drwxr-xr-x 1 AAA 197121    0 Jan 11  2024 source/
+-rw-r--r-- 1 AAA 197121   12 Oct 20 03:13 words.txt
+lrwxrwxrwx 1 AAA 197121   57 Feb  3  2021 시작 메뉴 -> /c/Users/AAA/AppData/Roaming/Microsoft/Windows/Start Menu/
